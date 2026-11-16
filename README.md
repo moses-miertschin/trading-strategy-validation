@@ -1,4 +1,4 @@
-# TradingBot
+# Trading Strategy Validation
 
 A research project that tested whether I could validate a retail trading
 strategy. It could not, and establishing that carefully is the result.
