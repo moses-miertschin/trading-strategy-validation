@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+data/xsec_probe/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Editor and tooling state
+.obsidian/
+.claude/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local logs and caches
+*.log
+.pytest_cache/
+.ruff_cache/
